@@ -1,0 +1,104 @@
+{
+  "users" :[
+    {
+      "id": 0,
+      "nama": "ulil",
+      "email": "ulil@gmail.com",
+      "password": "ulil12345"
+    }
+  ],
+  "items": [
+    {
+      "category": "product",
+      "description": "Durian jenis Musang King | Memiliki daging yang tebal | Rasa yang sangat enak | Dengan harga yang terjangkau",
+      "id": 1,
+      "isAvailable": true,
+      "isOff": true,
+      "offPercentage": 10,
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/durian.png?alt=media&token=3470eb8f-64eb-4535-b647-dd51842e6c98",
+      "productImageList": [
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/durian.png?alt=media&token=3470eb8f-64eb-4535-b647-dd51842e6c98",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/durian1.png?alt=media&token=6babdba9-f4d9-4b65-9549-4affb82ae4a7",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/durian2.png?alt=media&token=f2542d9b-56e5-44e3-8d48-7cb5d92e07aa"
+      ],
+      "productName": "Durian Musang King",
+      "productPrice": 45000
+    },
+    {
+      "category": "product",
+      "description": "Apel dari daerah Cilacap | Memiliki rasa yang segar | Mengandung banyak vitamin | Kaya akan nutrisi",
+      "id": 2,
+      "isAvailable": true,
+      "isOff": false,
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/apple.png?alt=media&token=c26dc0c5-6aa3-43a1-8619-75ae2c78631e",
+      "productImageList": [
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/apple.png?alt=media&token=c26dc0c5-6aa3-43a1-8619-75ae2c78631e",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/apel2.png?alt=media&token=63a37299-8ceb-4557-968a-6cf4680a501a",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/apel3.png?alt=media&token=b0f1d593-ef20-4aae-bce5-75053ccd0081"
+      ],
+      "productName": "Apel",
+      "productPrice": 15000
+    },
+    {
+      "category": "accessory",
+      "description": "Strawberry yang di Impor dari China | Kualitas terbaik | Harga lumayan terjangkau | Tambahan ekstrak corona",
+      "id": 3,
+      "isAvailable": true,
+      "isOff": true,
+      "offPercentage": 15,
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/straw.png?alt=media&token=cb8a59c2-a0bc-47c0-a37b-aab3d423aedb",
+      "productImageList": [
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/straw.png?alt=media&token=cb8a59c2-a0bc-47c0-a37b-aab3d423aedb",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/straw3.png?alt=media&token=1061e80c-0fa6-4cc4-b684-a46bbe7efb40",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/straw2.png?alt=media&token=3cd7754a-f090-4215-932b-59e07407663b"
+      ],
+      "productName": "Strawberry",
+      "productPrice": 30000
+    },
+    {
+      "category": "accessory",
+      "description": "Anggur yang di impor dari China | Kualitas terbaik | Rasa yang manis | Harga ramah di kantong",
+      "id": 4,
+      "isAvailable": true,
+      "isOff": false,
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/grap.png?alt=media&token=ec1a3997-86c1-44c8-8b83-5ffc1868617b",
+      "productImageList": [
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/grap.png?alt=media&token=ec1a3997-86c1-44c8-8b83-5ffc1868617b",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/grap2.png?alt=media&token=ce910940-c168-464a-81b1-46d35e9f65ff",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/grap3.png?alt=media&token=3fb510e8-4ae1-4892-8181-ca679962a5cd"
+      ],
+      "productName": "Anggur",
+      "productPrice": 35000
+    },
+    {
+      "category": "accessory",
+      "description": "Young Pineapple di import dari Australia | Memiliki banyak khasiat | Mengandung banyak vitamin | Harga yang terjangkau",
+      "id": 5,
+      "isAvailable": false,
+      "isOff": false,
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/nanas.png?alt=media&token=5141733c-d652-4a56-9d54-dd3d357a7735",
+      "productImageList": [
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/nanas.png?alt=media&token=5141733c-d652-4a56-9d54-dd3d357a7735",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/nanas3.png?alt=media&token=ab3c18da-1e80-4324-8cb1-f25439ea82f0",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/nanas2.png?alt=media&token=7be78679-aba7-41d9-abf8-59c9508cce4f"
+      ],
+      "productName": "Young Pineapple",
+      "productPrice": 37000
+    },
+    {
+      "category": "accessory",
+      "description": "Lemon yang di Import dari Singapura | Kualitas terbaik | Harga ramah di kantong | Dan rasa yang segar",
+      "id": 6,
+      "isAvailable": true,
+      "isOff": false,
+      "productImage": "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/lemon.png?alt=media&token=68cc8d57-c8c0-4588-93fe-e5ceabba8c3e",
+      "productImageList": [
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/lemon.png?alt=media&token=68cc8d57-c8c0-4588-93fe-e5ceabba8c3e",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/lemon3.png?alt=media&token=37275e00-d51f-4715-8f55-0d2a1b8cfc77",
+        "https://firebasestorage.googleapis.com/v0/b/tokobuah-f5455.appspot.com/o/lemon2.png?alt=media&token=af0bc35d-7194-495b-8318-df1fdf8fad59"
+      ],
+      "productName": "Lemon",
+      "productPrice": 45000
+    }
+  ]
+}
